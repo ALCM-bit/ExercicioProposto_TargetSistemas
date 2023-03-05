@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\ExercíciosTarget\InversorDeString\InversorDeString\bin\Debug\net6.0\InversorDeString.exe
+C:\Users\felip\Documents\ExercíciosTarget\InversorDeString\InversorDeString\bin\Debug\net6.0\InversorDeString.deps.json
+C:\Users\felip\Documents\ExercíciosTarget\InversorDeString\InversorDeString\bin\Debug\net6.0\InversorDeString.runtimeconfig.json
+C:\Users\felip\Documents\ExercíciosTarget\InversorDeString\InversorDeString\bin\Debug\net6.0\InversorDeString.dll
+C:\Users\felip\Documents\ExercíciosTarget\InversorDeString\InversorDeString\bin\Debug\net6.0\InversorDeString.pdb
+C:\Users\felip\Documents\ExercíciosTarget\InversorDeString\InversorDeString\obj\Debug\net6.0\InversorDeString.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\ExercíciosTarget\InversorDeString\InversorDeString\obj\Debug\net6.0\InversorDeString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\ExercíciosTarget\InversorDeString\InversorDeString\obj\Debug\net6.0\InversorDeString.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\ExercíciosTarget\InversorDeString\InversorDeString\obj\Debug\net6.0\InversorDeString.AssemblyInfo.cs
+C:\Users\felip\Documents\ExercíciosTarget\InversorDeString\InversorDeString\obj\Debug\net6.0\InversorDeString.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\ExercíciosTarget\InversorDeString\InversorDeString\obj\Debug\net6.0\InversorDeString.dll
+C:\Users\felip\Documents\ExercíciosTarget\InversorDeString\InversorDeString\obj\Debug\net6.0\refint\InversorDeString.dll
+C:\Users\felip\Documents\ExercíciosTarget\InversorDeString\InversorDeString\obj\Debug\net6.0\InversorDeString.pdb
+C:\Users\felip\Documents\ExercíciosTarget\InversorDeString\InversorDeString\obj\Debug\net6.0\InversorDeString.genruntimeconfig.cache
+C:\Users\felip\Documents\ExercíciosTarget\InversorDeString\InversorDeString\obj\Debug\net6.0\ref\InversorDeString.dll
